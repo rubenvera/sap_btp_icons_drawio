@@ -205,11 +205,6 @@
             <mxPoint x="710" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dDl5YL72DU-pMeRoa_QV-64" value="&amp;nbsp;54.0 cm&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dDl5YL72DU-pMeRoa_QV-63">
-          <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dDl5YL72DU-pMeRoa_QV-65" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="110" as="sourcePoint" />
@@ -228,14 +223,9 @@
             <mxPoint x="215" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dDl5YL72DU-pMeRoa_QV-69" value="&amp;nbsp;54.0 cm&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dDl5YL72DU-pMeRoa_QV-68">
-          <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
-            <mxPoint x="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDl5YL72DU-pMeRoa_QV-70" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;" edge="1" parent="1">
+        <mxCell id="dDl5YL72DU-pMeRoa_QV-70" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="180" as="sourcePoint" />
+            <mxPoint x="710" y="180" as="sourcePoint" />
             <mxPoint x="200" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -251,11 +241,6 @@
             <mxPoint x="265" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dDl5YL72DU-pMeRoa_QV-74" value="&amp;nbsp;54.0 cm&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dDl5YL72DU-pMeRoa_QV-73">
-          <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dDl5YL72DU-pMeRoa_QV-75" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="220" as="sourcePoint" />
@@ -265,18 +250,13 @@
         <mxCell id="dDl5YL72DU-pMeRoa_QV-76" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="721.9047619047619" y="260" as="sourcePoint" />
-            <mxPoint x="251" y="260" as="targetPoint" />
+            <mxPoint x="200" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dDl5YL72DU-pMeRoa_QV-77" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="157" as="sourcePoint" />
             <mxPoint x="339.5" y="157" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDl5YL72DU-pMeRoa_QV-78" value="&amp;nbsp;54.0 cm&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dDl5YL72DU-pMeRoa_QV-77">
-          <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dDl5YL72DU-pMeRoa_QV-79" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;dashed=1;" edge="1" parent="1">
