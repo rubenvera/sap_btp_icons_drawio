@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="PGLVXAiq9R_V7fNon7wM">
-    <mxGraphModel dx="602" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="258" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,6 +197,29 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="230" as="sourcePoint" />
             <mxPoint x="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dDl5YL72DU-pMeRoa_QV-63" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="10" as="sourcePoint" />
+            <mxPoint x="620" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dDl5YL72DU-pMeRoa_QV-64" value="&amp;nbsp;54.0 cm&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dDl5YL72DU-pMeRoa_QV-63">
+          <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dDl5YL72DU-pMeRoa_QV-65" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" as="sourcePoint" />
+            <mxPoint x="200" y="22" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dDl5YL72DU-pMeRoa_QV-66" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.25;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599.64" as="sourcePoint" />
+            <mxPoint x="599.64" y="22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
